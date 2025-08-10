@@ -1,4 +1,5 @@
 # Snake, Water, Gun Game
+#Author - Tanvir
 import random
 
 computer = random.choice([1, -1, 0])
